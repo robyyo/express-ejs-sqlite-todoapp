@@ -1,0 +1,18 @@
+{
+  "name": "express-ejs-sqlite-todoapp",
+  "version": "1.0.0",
+  "description": "Simple Express.js, EJS view engine, Sqlite todo application with Auth0 authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "Authentication",
+    "Authorization",
+    "EJS",
+    "Sqlite3"
+  ],
+  "author": "Robert Finkley",
+  "license": "ISC"
+}
